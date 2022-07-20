@@ -1,0 +1,81 @@
+
+
+
+ 
+
+#square{
+    
+    height: 195px;
+    width: 195px;
+    background-color: red;
+    position: absolute;
+    right: 200px;
+ left: 500px;
+ bottom: 500px;
+ border-radius: 10px;
+ box-shadow: 5px 5px 100px 2px rgba(0,0,0,.8);
+}#square1{
+    
+    height: 195px;
+    width: 195px;
+    background-color: yellowgreen;
+    position: absolute;
+    right: 400px;
+    left: 700px;
+    bottom: 500px;
+    border: 900px;
+    border-color: black;
+   border-width: 10px;
+   border-radius: 10px;
+   box-shadow: 5px 5px 100px 2px rgba(0,0,0,.8);
+}
+#square2{
+    
+    height: 195px;
+    width: 195px;
+    background-color: blueviolet;
+    position: absolute;
+    right: 400px;
+    left: 700px;
+    bottom: 300px;
+    border: 900px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 100px 2px rgba(0,0,0,.8);
+}
+#square3{
+    
+    height: 195px;
+    width: 195px;
+    background-color: hotpink;
+    position: absolute;
+    right: 200px;
+    left: 500px;
+    bottom: 300px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 100px 2px rgba(0,0,0,.8);
+
+}
+body{
+    display: block;
+  
+    margin: 50px;
+    border: 50px;
+    padding: 50px;
+    padding-left: 0px;
+    padding-right: 130px;
+    background-color: black;
+}
+#simon{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    text-align: center;
+margin-top: -15px;
+
+    
+    
+}
+#button{
+
+
+}
