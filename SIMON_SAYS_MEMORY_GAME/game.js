@@ -7,6 +7,35 @@ const purple = document.querySelector('.square2');
 const start = document.querySelector('.button')
 
 //should be levels to start things off, and a computer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 function START(){
 
 }
